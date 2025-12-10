@@ -1,0 +1,9 @@
+{
+  "name": "GeoFace Attendance",
+  "description": "Smart student attendance system with AI-powered ID scanning, selfie verification, and GPS tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
